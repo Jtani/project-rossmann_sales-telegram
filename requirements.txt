@@ -1,8 +1,6 @@
 Flask==3.0.3
-json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
-jsonpointer==2.4
 numpy==1.26.4
 pandas==2.2.1
-requests @ file:///C:/b/abs_474vaa3x9e/croot/requests_1707355619957/work
+requests 
 scikit-learn==1.4.1.post1
 xgboost==2.0.3
